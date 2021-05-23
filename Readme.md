@@ -16,7 +16,7 @@ This RestApp is made for MercadoLibre Technical Test
 Download the project (optional).
 
 ```bash
-pip install foobar
+git clone https://github.com/halwolf/mltest.git
 ```
 
 Build project to get jar
